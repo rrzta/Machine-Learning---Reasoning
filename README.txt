@@ -1,13 +1,10 @@
-Razita Amalina | 1301200283
-Rayhan Risq Arya Brinanta | 1301204026
+#If you want to run code from Google Colab
+1. Open the source code link on the link: bit.ly/REASONING_IF4409_13
+2. Run all the cells in Google Colab
+3. Output can be seen in the last cell
+4. The output Excel file can be downloaded from Google Colab on the left side of Google Colab on the Files tab.
 
-#Jika ingin me-run code dari Google Colab
-1. Buka link source code pada link: bit.ly/REASONING_IF4409_13
-2. Run semua cell yang ada pada Google Colab
-3. Output dapat dilihat pada cell paling terakhir
-4. File Excel output dapat di-download dari Google Colab pada bagian kiri Google Colab pada tab Files.
-
-#Jika ingin me-run code dari terminal
-1. Pastikan pada PC Anda telah ter-install library panda, numpy, dan matplotlib.
-2. Buka terminal dan sesuaikan path pada file anda
-3. Ketikkan command "python (namaFile).py"
+#If you want to run the code from the terminal
+1. Make sure you have the pandas, numpy, and matplotlib libraries installed on your PC.
+2. Open a terminal and adjust the path to your file
+3. Type the command "python (filename).py"
